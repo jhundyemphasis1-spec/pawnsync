@@ -1,0 +1,1306 @@
+﻿[
+    {
+        "classification":  "A1",
+        "code":  "037-125BT"
+    },
+    {
+        "classification":  "A1",
+        "code":  "13B-B419"
+    },
+    {
+        "classification":  "A1",
+        "code":  "16emcp08"
+    },
+    {
+        "classification":  "A1",
+        "code":  "16emcp16"
+    },
+    {
+        "classification":  "A1",
+        "code":  "16EMCP16-3GM610"
+    },
+    {
+        "classification":  "A1",
+        "code":  "16EMCP16-EL3CV100"
+    },
+    {
+        "classification":  "A1",
+        "code":  "16EMCP16-EL3DT527"
+    },
+    {
+        "classification":  "A1",
+        "code":  "16EMCP16-ML3BM500"
+    },
+    {
+        "classification":  "A1",
+        "code":  "16EMCP16-NL3E527"
+    },
+    {
+        "classification":  "A1",
+        "code":  "16EMCPO8-EL3BT527"
+    },
+    {
+        "classification":  "A1",
+        "code":  "16EMCPO8-EL3CV100"
+    },
+    {
+        "classification":  "A1",
+        "code":  "16EMCPO8-NL3DT527"
+    },
+    {
+        "classification":  "A1",
+        "code":  "7X0001M-B611"
+    },
+    {
+        "classification":  "A1",
+        "code":  "H9TP 18"
+    },
+    {
+        "classification":  "A1",
+        "code":  "H9TQ 17"
+    },
+    {
+        "classification":  "A1",
+        "code":  "H9TQ17A8GTMCUR"
+    },
+    {
+        "classification":  "A1",
+        "code":  "H9TQ17AAETACUR"
+    },
+    {
+        "classification":  "A1",
+        "code":  "H9TQ17ABJTACUR"
+    },
+    {
+        "classification":  "A1",
+        "code":  "H9TQ17ABJTBCUR"
+    },
+    {
+        "classification":  "A1",
+        "code":  "H9TQ17ABJTMCUR"
+    },
+    {
+        "classification":  "A1",
+        "code":  "H9TQ17ADFTACUR"
+    },
+    {
+        "classification":  "A1",
+        "code":  "H9TQ17ADFTBCUR"
+    },
+    {
+        "classification":  "A1",
+        "code":  "H9TQ17ADFTMCUR"
+    },
+    {
+        "classification":  "A1",
+        "code":  "H9TQ18ABJTMCUR"
+    },
+    {
+        "classification":  "A1",
+        "code":  "JY 932"
+    },
+    {
+        "classification":  "A1",
+        "code":  "JY 950"
+    },
+    {
+        "classification":  "A1",
+        "code":  "JY008"
+    },
+    {
+        "classification":  "A1",
+        "code":  "JY932"
+    },
+    {
+        "classification":  "A1",
+        "code":  "JY950"
+    },
+    {
+        "classification":  "A1",
+        "code":  "JY952"
+    },
+    {
+        "classification":  "A1",
+        "code":  "JY977"
+    },
+    {
+        "classification":  "A1",
+        "code":  "JZ 008"
+    },
+    {
+        "classification":  "A1",
+        "code":  "JZ 011"
+    },
+    {
+        "classification":  "A1",
+        "code":  "JZ011"
+    },
+    {
+        "classification":  "A1",
+        "code":  "JZ089"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMF310012M-B305"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMF8"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMF820012M-B305"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMFE"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMFE10012M-B214"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMFE60012M-B214"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMGE"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMGE6001BM-B421"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMI8X"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMK8X"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMQ3"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMQ310006A-B419"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMQ310006B-B419"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMQ310006M-B417"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMQ31000SM-B417"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMQ3100Q3M-B419"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMQ8"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMQ82000SM-B418"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMQ820013M-B419"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMQ8X000SA-B414"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMQE"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMQE10013M-B318"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMQE60013M-B318"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMR310001M-B611"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMR31000BA-B614"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMR31000BM-B611"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMR8"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMR820001M-B609"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMR8X0001A-B609"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMR8X0001M-B608"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMR8X0001M-B609"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMRE"
+    },
+    {
+        "classification":  "A1",
+        "code":  "KMRE1000BM-B512"
+    },
+    {
+        "classification":  "A1",
+        "code":  "SDAD-16G"
+    },
+    {
+        "classification":  "A1",
+        "code":  "SDADB48K-16G"
+    },
+    {
+        "classification":  "A1",
+        "code":  "SDADF4AP-16G"
+    },
+    {
+        "classification":  "A1",
+        "code":  "SDADL2AP-16G"
+    },
+    {
+        "classification":  "A1",
+        "code":  "TYDO 1632"
+    },
+    {
+        "classification":  "A1",
+        "code":  "TYDO 1657"
+    },
+    {
+        "classification":  "A1",
+        "code":  "TYDO 1659"
+    },
+    {
+        "classification":  "A1",
+        "code":  "TYDO 1662"
+    },
+    {
+        "classification":  "A1",
+        "code":  "TYDOHH231632RC"
+    },
+    {
+        "classification":  "A1",
+        "code":  "TYE0HH221668RA"
+    },
+    {
+        "classification":  "A1",
+        "code":  "TYE0HH231659RA"
+    },
+    {
+        "classification":  "A1",
+        "code":  "TYEOHH221657RA"
+    },
+    {
+        "classification":  "A2",
+        "code":  "H9AG8"
+    },
+    {
+        "classification":  "A2",
+        "code":  "H9HP26ACVUMDARKLM"
+    },
+    {
+        "classification":  "A2",
+        "code":  "H9HP27ABKMMDAR"
+    },
+    {
+        "classification":  "A2",
+        "code":  "H9HP27ABUMMDAR"
+    },
+    {
+        "classification":  "A2",
+        "code":  "H9HP27ACVUMDARKLM"
+    },
+    {
+        "classification":  "A2",
+        "code":  "H9TQ 26"
+    },
+    {
+        "classification":  "A2",
+        "code":  "H9TQ 27"
+    },
+    {
+        "classification":  "A2",
+        "code":  "H9TQ26ABJTACUR"
+    },
+    {
+        "classification":  "A2",
+        "code":  "H9TQ26ABJTBCUR"
+    },
+    {
+        "classification":  "A2",
+        "code":  "H9TQ26ABJTMCUR"
+    },
+    {
+        "classification":  "A2",
+        "code":  "H9TQ26ACLTMCUR"
+    },
+    {
+        "classification":  "A2",
+        "code":  "H9TQ26ADFTACUR"
+    },
+    {
+        "classification":  "A2",
+        "code":  "H9TQ26ADFTBCUR"
+    },
+    {
+        "classification":  "A2",
+        "code":  "H9TQ26ADFTMCUR"
+    },
+    {
+        "classification":  "A2",
+        "code":  "H9TQ27ADFTMCUR"
+    },
+    {
+        "classification":  "A2",
+        "code":  "JZ 013"
+    },
+    {
+        "classification":  "A2",
+        "code":  "JZ 025"
+    },
+    {
+        "classification":  "A2",
+        "code":  "JZ 050"
+    },
+    {
+        "classification":  "A2",
+        "code":  "JZ 083"
+    },
+    {
+        "classification":  "A2",
+        "code":  "JZ050"
+    },
+    {
+        "classification":  "A2",
+        "code":  "JZO13"
+    },
+    {
+        "classification":  "A2",
+        "code":  "JZO18"
+    },
+    {
+        "classification":  "A2",
+        "code":  "JZO25"
+    },
+    {
+        "classification":  "A2",
+        "code":  "JZO83"
+    },
+    {
+        "classification":  "A2",
+        "code":  "JZOO2"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KM4X"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KM4X600KM-B321"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMDD"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMDD60018M-B320"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMDX"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMDX10018M-B420"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMGD"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMGD6001BM-B421"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMGX"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMGX6001BM-B514"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMI4"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMQ2"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMQ210013M-B615"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMQ4"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMQ4Z0013M-B809"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMQD"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMQX"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMQX10013M-B419"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMR2"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMR21000BM-B809"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMR4Z0001A-B802"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMR4Z0001A-B803"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMR4Z0001AI-B802"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMRD"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMRD60014M-B512"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMRX"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMRX1000BM-B614"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMRX10014M-B614"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMRX60014M-B614"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMWX"
+    },
+    {
+        "classification":  "A2",
+        "code":  "KMWX10016M-B619"
+    },
+    {
+        "classification":  "A2",
+        "code":  "SDAD-32G"
+    },
+    {
+        "classification":  "A2",
+        "code":  "SDADL28P-32G"
+    },
+    {
+        "classification":  "A2",
+        "code":  "TQ26ACPMMD"
+    },
+    {
+        "classification":  "A2",
+        "code":  "TYEO1H231658RA"
+    },
+    {
+        "classification":  "A2",
+        "code":  "TYRO 1668"
+    },
+    {
+        "classification":  "A2",
+        "code":  "TYRO 1677"
+    },
+    {
+        "classification":  "A2",
+        "code":  "TYRO1H331667RB"
+    },
+    {
+        "classification":  "A2",
+        "code":  "TYRO1H331681RB"
+    },
+    {
+        "classification":  "A2",
+        "code":  "TYRO1H331691RB"
+    },
+    {
+        "classification":  "A2",
+        "code":  "X10016A-B617"
+    },
+    {
+        "classification":  "A3",
+        "code":  "2H-CM-B518"
+    },
+    {
+        "classification":  "A3",
+        "code":  "3H-1CA-B515"
+    },
+    {
+        "classification":  "A3",
+        "code":  "3H-1CM-B515"
+    },
+    {
+        "classification":  "A3",
+        "code":  "4CR-64G"
+    },
+    {
+        "classification":  "A3",
+        "code":  "4DR-64G"
+    },
+    {
+        "classification":  "A3",
+        "code":  "52ACL"
+    },
+    {
+        "classification":  "A3",
+        "code":  "52ACPMA"
+    },
+    {
+        "classification":  "A3",
+        "code":  "52ACPMM"
+    },
+    {
+        "classification":  "A3",
+        "code":  "52AEC-BR"
+    },
+    {
+        "classification":  "A3",
+        "code":  "53ACP-EM"
+    },
+    {
+        "classification":  "A3",
+        "code":  "53ACPMM"
+    },
+    {
+        "classification":  "A3",
+        "code":  "5C7-1DM-B622"
+    },
+    {
+        "classification":  "A3",
+        "code":  "5H7-1DM-B424"
+    },
+    {
+        "classification":  "A3",
+        "code":  "AQ54AEC-EM"
+    },
+    {
+        "classification":  "A3",
+        "code":  "C1-14M-B809"
+    },
+    {
+        "classification":  "A3",
+        "code":  "C1-BM-B809"
+    },
+    {
+        "classification":  "A3",
+        "code":  "H6-14A-B614"
+    },
+    {
+        "classification":  "A3",
+        "code":  "H6-14M-B614"
+    },
+    {
+        "classification":  "A3",
+        "code":  "H6-1DA-422"
+    },
+    {
+        "classification":  "A3",
+        "code":  "H6-1DM-B422"
+    },
+    {
+        "classification":  "A3",
+        "code":  "H9AG9"
+    },
+    {
+        "classification":  "A3",
+        "code":  "H9HP52ACPMADARKMM"
+    },
+    {
+        "classification":  "A3",
+        "code":  "H9HP52ACPMMDARKMM"
+    },
+    {
+        "classification":  "A3",
+        "code":  "H9HP52AECMMDARKMM"
+    },
+    {
+        "classification":  "A3",
+        "code":  "H9HP52AECMMDBBKMM"
+    },
+    {
+        "classification":  "A3",
+        "code":  "H9HP52AECMMDBRKMM"
+    },
+    {
+        "classification":  "A3",
+        "code":  "H9HP53ACPMMDARKMM"
+    },
+    {
+        "classification":  "A3",
+        "code":  "H9HP5ADAMADARKMM"
+    },
+    {
+        "classification":  "A3",
+        "code":  "H9HQ53ACPMMDARKEM"
+    },
+    {
+        "classification":  "A3",
+        "code":  "H9HQ53AECMMDARKEM"
+    },
+    {
+        "classification":  "A3",
+        "code":  "H9HQ54AECMMDARKEM"
+    },
+    {
+        "classification":  "A3",
+        "code":  "H9TQ 52"
+    },
+    {
+        "classification":  "A3",
+        "code":  "H9TQ 53"
+    },
+    {
+        "classification":  "A3",
+        "code":  "H9TQ52ACLTMCUR"
+    },
+    {
+        "classification":  "A3",
+        "code":  "H9TQ52ADADARKMM"
+    },
+    {
+        "classification":  "A3",
+        "code":  "H9TQ52ADCMMDARKMM"
+    },
+    {
+        "classification":  "A3",
+        "code":  "H9TQ53ACLTMCUR"
+    },
+    {
+        "classification":  "A3",
+        "code":  "HOTQ 54"
+    },
+    {
+        "classification":  "A3",
+        "code":  "HQ53AEC-EM"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ 049"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ 052"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ 053"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ 090"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ 128"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ 168"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ 177"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ 185"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ 186"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ 188"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ 478"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ 479"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ 481"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ043"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ047"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ049"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ052"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ053"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ054"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ055"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ060"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ067"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ083"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ090"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ109"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ128"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ160"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ168"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ177"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ178"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ179"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ185"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ186"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ266"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ396"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ409"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ481"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ495"
+    },
+    {
+        "classification":  "A3",
+        "code":  "JZ528"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KM2H"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KM2H700CM-B518"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KM3H"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KM3H00001CA-B515"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KM3H00001CM-B515"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KM3H6001CA-B515"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KM3H6001CM-B515"
+    },
+    {
+        "classification":  "A3",
+        "code":  "km3p"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KM5C"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KM5C7001DM-B622"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KM5H"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KM5H7001DM-B424"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KM5P8001DM-B424"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KMDC"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KMDH"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KMDH6001DA-B422"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KMDH6001DM-B422"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KMDP"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KMDP60018M-B425"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KMDP6001DM"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KMGP"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KMGP6001BM-B514"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KMGP6001BM-B614"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KMH3H000015M-B805"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KMRC"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KMRC1000BM-B809"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KMRC10014M-B809"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KMRH"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KMRH60014A-B614"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KMRH60014M-B614"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KMRP"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KMWC"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KMWC10016M-B812"
+    },
+    {
+        "classification":  "A3",
+        "code":  "KMWC10017M-B812"
+    },
+    {
+        "classification":  "A3",
+        "code":  "P6-1BM-B514"
+    },
+    {
+        "classification":  "A3",
+        "code":  "P6-1BM-B614"
+    },
+    {
+        "classification":  "A3",
+        "code":  "SDAD-64G"
+    },
+    {
+        "classification":  "A3",
+        "code":  "SDADA4CR-64G"
+    },
+    {
+        "classification":  "A3",
+        "code":  "TQ52ADA"
+    },
+    {
+        "classification":  "A3",
+        "code":  "TQ52ADC"
+    },
+    {
+        "classification":  "A3",
+        "code":  "WC1-16M-B812"
+    },
+    {
+        "classification":  "A3",
+        "code":  "WC1-17M-B812"
+    },
+    {
+        "classification":  "A4",
+        "code":  "4CR-128G"
+    },
+    {
+        "classification":  "A4",
+        "code":  "4DR-128G"
+    },
+    {
+        "classification":  "A4",
+        "code":  "H9HP 15"
+    },
+    {
+        "classification":  "A4",
+        "code":  "H9HP 16"
+    },
+    {
+        "classification":  "A4",
+        "code":  "H9HP16AECMMDARKMM"
+    },
+    {
+        "classification":  "A4",
+        "code":  "H9HQ15AFAMADAR"
+    },
+    {
+        "classification":  "A4",
+        "code":  "H9HQ15AJAMMDAR-KEM"
+    },
+    {
+        "classification":  "A4",
+        "code":  "H9HQ16AECMMDAR"
+    },
+    {
+        "classification":  "A4",
+        "code":  "H9HQ16AFAMMDAR"
+    },
+    {
+        "classification":  "A4",
+        "code":  "H9HQ21AFAMADARKEM"
+    },
+    {
+        "classification":  "A4",
+        "code":  "H9HQ22AECMMDARKEM"
+    },
+    {
+        "classification":  "A4",
+        "code":  "H9HQ22AFAMMDARKEM"
+    },
+    {
+        "classification":  "A4",
+        "code":  "H9HR15JFA3MEVR-K6M"
+    },
+    {
+        "classification":  "A4",
+        "code":  "JZ 100"
+    },
+    {
+        "classification":  "A4",
+        "code":  "JZ 103"
+    },
+    {
+        "classification":  "A4",
+        "code":  "JZ 150"
+    },
+    {
+        "classification":  "A4",
+        "code":  "JZ 151"
+    },
+    {
+        "classification":  "A4",
+        "code":  "JZ 171"
+    },
+    {
+        "classification":  "A4",
+        "code":  "JZ 266"
+    },
+    {
+        "classification":  "A4",
+        "code":  "JZ 386"
+    },
+    {
+        "classification":  "A4",
+        "code":  "JZ103"
+    },
+    {
+        "classification":  "A4",
+        "code":  "JZ150"
+    },
+    {
+        "classification":  "A4",
+        "code":  "JZ151"
+    },
+    {
+        "classification":  "A4",
+        "code":  "JZ187"
+    },
+    {
+        "classification":  "A4",
+        "code":  "KM2B8001CM-BB01"
+    },
+    {
+        "classification":  "A4",
+        "code":  "KM2L"
+    },
+    {
+        "classification":  "A4",
+        "code":  "KM2V7001CM-B706"
+    },
+    {
+        "classification":  "A4",
+        "code":  "KM2V8001CM-B707"
+    },
+    {
+        "classification":  "A4",
+        "code":  "KM3V"
+    },
+    {
+        "classification":  "A4",
+        "code":  "KM3V6001CA-B708"
+    },
+    {
+        "classification":  "A4",
+        "code":  "KM3V6001CM-B705"
+    },
+    {
+        "classification":  "A4",
+        "code":  "KM5L"
+    },
+    {
+        "classification":  "A4",
+        "code":  "KM5V"
+    },
+    {
+        "classification":  "A4",
+        "code":  "KM5V700DM-B621"
+    },
+    {
+        "classification":  "A4",
+        "code":  "KM8B8001JM-BCO1"
+    },
+    {
+        "classification":  "A4",
+        "code":  "KM8F800JM-B813"
+    },
+    {
+        "classification":  "A4",
+        "code":  "KM8F800MM-B812"
+    },
+    {
+        "classification":  "A4",
+        "code":  "KM8L"
+    },
+    {
+        "classification":  "A4",
+        "code":  "KM8V"
+    },
+    {
+        "classification":  "A4",
+        "code":  "Kmas9001pm"
+    },
+    {
+        "classification":  "A4",
+        "code":  "KMDV"
+    },
+    {
+        "classification":  "A4",
+        "code":  "KMDV6001DM-B620"
+    },
+    {
+        "classification":  "A4",
+        "code":  "KMRV"
+    },
+    {
+        "classification":  "A4",
+        "code":  "KMWV"
+    },
+    {
+        "classification":  "A4",
+        "code":  "KMWV50017M-B812"
+    },
+    {
+        "classification":  "A4",
+        "code":  "KRV"
+    },
+    {
+        "classification":  "A4",
+        "code":  "KRV50014M-B809"
+    },
+    {
+        "classification":  "A4",
+        "code":  "SDAD-128G"
+    },
+    {
+        "classification":  "A5",
+        "code":  "H9HQ21"
+    },
+    {
+        "classification":  "A5",
+        "code":  "H9HQ21AECMADAR-KEM"
+    },
+    {
+        "classification":  "A5",
+        "code":  "H9HQ21AECMZDAR-KEM"
+    },
+    {
+        "classification":  "A5",
+        "code":  "H9HQ21AFAMZDAR-KEM"
+    },
+    {
+        "classification":  "A5",
+        "code":  "H9HQ22"
+    },
+    {
+        "classification":  "A5",
+        "code":  "H9HQ22AECMMDAR-KEM"
+    },
+    {
+        "classification":  "A5",
+        "code":  "H9HQ22AFAMMDAR-KEM"
+    },
+    {
+        "classification":  "A5",
+        "code":  "H9HQ2AFAMADAR-KEM"
+    },
+    {
+        "classification":  "A5",
+        "code":  "H9HR21JFA3MEVR-K6M"
+    },
+    {
+        "classification":  "A5",
+        "code":  "KM2B8001JM"
+    },
+    {
+        "classification":  "A5",
+        "code":  "KM8B800JM"
+    },
+    {
+        "classification":  "A5",
+        "code":  "KM8F8001JM"
+    }
+]
